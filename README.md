@@ -11,9 +11,7 @@ tidal-auto\_export.py \<- To extract Tidal links and put them in a file. 
 
 tidal-auto\_dl.py \<- To automatically download each link contained in the final "clean\_tidal\_export.txt" file.
 
-## Disclaimer
-
-:loudspeaker:
+## :loudspeaker: Disclaimer
 
 *   Private use only.
 *   Need a Tidal-HIFI subscription.
