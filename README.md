@@ -45,7 +45,7 @@ python3 tidal-auto_export.py
 :warning: You need to **configure** tidal-dl first, read the documentation [here](https://doc.yaronzz.com/post/tidal_dl_installation/).
 
 ```bash
-tidal-auto_dl.py
+python3 tidal-auto_dl.py
 ```
 
 ## Screenshots
