@@ -7,9 +7,9 @@ For example, from a Whatsapp chat export, or a messaging system where you self-s
 ![Screenshot--01](https://github.com/SunL0w/Tidal-AutoDL/blob/main/Screenshot/Screenshot-01.png)
 
 You have two tools at your disposal:  
-tidal-auto\_export.py \<- To extract Tidal links and put them in a file. 
+tidal-auto\_export.py 👈️ To extract Tidal links and put them in a file. 
 
-tidal-auto\_dl.py \<- To automatically download each link contained in the final "clean\_tidal\_export.txt" file.
+  tidal-auto\_dl.py 👈️ To automatically download each link contained in the final "clean\_tidal\_export.txt" file.
 
 ## :loudspeaker: Disclaimer
 
