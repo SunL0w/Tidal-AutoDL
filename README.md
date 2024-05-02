@@ -31,7 +31,7 @@ cd Tidal-AutoDL
 ```
 
 ```bash
-sudo python3 -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 ## Launch
