@@ -6,7 +6,7 @@ For example, from a Whatsapp chat export, or a messaging system where you self-s
 
 ![Screenshot--01](https://github.com/SunL0w/Tidal-AutoDL/blob/main/Screenshot/Screenshot-01.png)
 
-You have two tools at your disposal:  
+You have two tools at your disposal :  
 tidal-auto\_export.py 👈️ To extract Tidal links and put them in a file. 
 
   tidal-auto\_dl.py 👈️ To automatically download each link contained in the final "clean\_tidal\_export.txt" file.
@@ -31,7 +31,7 @@ cd Tidal-AutoDL
 ```
 
 ```bash
-python3 -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Launch
@@ -39,13 +39,13 @@ python3 -m pip install -r requirements.txt
 :exclamation: Your **source file** must be placed in the **same directory** as Tidal-AutoDL, and **named** "source.txt".
 
 ```bash
-python3 tidal-auto_export.py
+python tidal-auto_export.py
 ```
 
 :warning: You need to **configure** tidal-dl first, read the documentation [here](https://doc.yaronzz.com/post/tidal_dl_installation/).
 
 ```bash
-python3 tidal-auto_dl.py
+python tidal-auto_dl.py
 ```
 
 ## Screenshots
@@ -55,6 +55,10 @@ python3 tidal-auto_dl.py
 ![Screenshot--03](https://github.com/SunL0w/Tidal-AutoDL/blob/main/Screenshot/Screenshot--03.png)
 
 ![Screenshot--04](https://github.com/SunL0w/Tidal-AutoDL/blob/main/Screenshot/Screenshot--04.png)
+
+![Screenshot--04](https://github.com/SunL0w/Tidal-AutoDL/blob/main/Screenshot/Screenshot--05.png)
+
+![Screenshot--04](https://github.com/SunL0w/Tidal-AutoDL/blob/main/Screenshot/Screenshot--06.png)
 
 ---
 
